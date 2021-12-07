@@ -1,0 +1,10 @@
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\bin\Debug\posledni_ukol_22.11.exe.config
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\bin\Debug\posledni_ukol_22.11.exe
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\bin\Debug\posledni_ukol_22.11.pdb
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\obj\Debug\posledni_ukol_22.11.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\obj\Debug\posledni_ukol_22._11.Form1.resources
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\obj\Debug\posledni_ukol_22._11.Properties.Resources.resources
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\obj\Debug\posledni_ukol_22.11.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\obj\Debug\posledni_ukol_22.11.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\obj\Debug\posledni_ukol_22.11.exe
+C:\Users\Filip\Desktop\Ostatní\School\PRG\posledni_ukol_22.11\posledni_ukol_22.11\obj\Debug\posledni_ukol_22.11.pdb
